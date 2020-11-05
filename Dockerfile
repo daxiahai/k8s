@@ -1,1 +1,1 @@
-FROM quay.io/fluentd-elasticsearch/elasticsearch:v6.6.1
+FROM quay.io/fluentd_elasticsearch/elasticsearch:v7.4.3
