@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/windows/servercore:latest
+FROM mcr.microsoft.com/windows/nanoserver
