@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/windows/nanoserver
+FROM microsoft/nanoserver
